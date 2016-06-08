@@ -1,5 +1,5 @@
-# CascadeBloomFilter
-Cascade Bloom Filter implementation in c#.  
+# Introduction
+Bloom Filters implementation in c#.  
 Based on these papers:
 
 Space/Time Trade-offs in Hash Coding with Allowable Errors  
